@@ -1,0 +1,6 @@
+{
+  "name": "Maul Head Of Sosmed",
+  "description": "Pusat manajemen aset materi, database konten, kalender tersinkronisasi Google Calendar, papan kanban, AI studio generator & extractor, dan analisis video screen record metrik media sosial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
